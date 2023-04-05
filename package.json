@@ -22,7 +22,7 @@
     "sass": "^1.49.8",
     "supports-color": "^9.2.1"
   },
-  "repository": "github:probot/probot.github.io",
+  "repository": "github:doapply/doapply.github.io",
   "devDependencies": {
     "@octokit/rest": "^19.0.0",
     "@types/node": "^18.0.3",
